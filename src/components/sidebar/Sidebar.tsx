@@ -31,7 +31,7 @@ const Sidebar = () => {
           <div className='sidebarChannelsHeader'>
             <div className="sidebarHeader">
               <ExpandMoreIcon />
-              <h4>프로그래밍 채널</h4>
+              <h4>プログラミングチャンネル</h4>
             </div>
             <AddIcon className='sidebarAddIcon' />
           </div>
@@ -45,7 +45,7 @@ const Sidebar = () => {
 
           <div className='sidebarFooter'>
             <div className='sidebarAccount'>
-              <img src="./icon.png" alt="" width="100px" />
+              <img src="./icon.png" alt="" />
               <div className='accountName'>
                 <h4>Formal</h4>
                 <span>#8162</span>
